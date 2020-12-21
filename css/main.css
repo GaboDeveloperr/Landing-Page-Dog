@@ -1,0 +1,70 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: 'JetBrains Mono', monospace;
+
+}
+.bg {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;	
+}
+
+.bga {
+    background-image: url(https://cdn.wallpapersafari.com/86/30/6ibQUt.jpg);
+    height: 35rem;
+}
+
+.bg-2 {
+	background-color: #d2dae2;
+}
+
+.nav-link {
+	color: #26de81;
+	font-weight: 700;
+	font-size: 20px;
+
+}
+
+.nav-link:hover {
+	color: #05c46b;
+	border-bottom: 1px solid #26de81
+}
+
+
+.txt {
+	color: #26de81;
+	margin-top: 100px;
+	font-weight: 700;
+	font-size: 50px
+}
+
+.sub-txt {
+	font-weight: 700;
+	font-size: 30px
+}
+
+.paraf {
+	font-weight: 500
+}
+
+.pick img {
+	width: 30px;
+	margin-top: 460px
+}
+
+.img-wolf {
+	width: 280px
+}
+
+
+.dog-img {
+	background-image: url(../img/a.jpg);
+}
+
+
+footer {
+	font-weight: 700;
+	font-size: 15px;
+}
